@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+**/build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Kotlin
+.kotlin/
+
+# NDK / CMake
+.cxx/
+externalNativeBuild/
+
+# Logs
+*.log
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# APKs / AABs
+*.apk
+*.aab
+
+# Screenshots / captures
+captures/
+
+# Keystores (do not commit)
+*.jks
+*.keystore
